@@ -1,0 +1,25 @@
+{
+  "name": "photepackage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint src/js",
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^3.2.0",
+    "eslint": "^6.6.0",
+    "style-loader": "^1.0.0",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  },
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "scss-loader": "0.0.1",
+    "swiper": "^5.2.0"
+  }
+}

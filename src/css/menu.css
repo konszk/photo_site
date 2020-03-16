@@ -1,0 +1,15 @@
+header{
+    height: 60px;
+    width: 90%;
+    text-align: right;
+}
+
+ul li {
+    display: inline-block;
+    padding: 26px 10px 20px 10px;
+}
+
+li {
+    font-family: 'Century Gothic' ;
+    font-size: 20px;
+}
