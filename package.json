@@ -18,7 +18,7 @@
     "webpack-cli": "^3.3.10"
   },
   "dependencies": {
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "scss-loader": "0.0.1",
     "swiper": "^5.2.0"
   }
